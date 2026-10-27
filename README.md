@@ -66,6 +66,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets) – Curated list of carbon tracking and offset tools.
 - [CDR.fyi](https://www.cdr.fyi/) – Live database of carbon removal purchases.
 - [Pachama](https://pachama.com/) – Technology platform for forest carbon credits and nature-based solutions.
+- [commute-corridor-matcher](https://github.com/Mitvia/commute-corridor-matcher) – Pure TypeScript corridor matching, route detour calculation, and Scope 3 employee commute emissions engine. ([Website](https://mitvia.com))
 
 ## Sustainable Business & Finance
 
